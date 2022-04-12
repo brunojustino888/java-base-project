@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>br.com.brunojustino888</groupId>
+	<artifactId>java-base-project</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>java-base-project</name>
+	<description>Projeto java com aplicacoes academicas e historicas (ano de 2015).</description>
+	
+	<dependencies>
+		<!-- https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share -->
+		<dependency>
+		    <groupId>com.googlecode.soundlibs</groupId>
+		    <artifactId>tritonus-share</artifactId>
+		    <version>0.3.7.4</version>
+		</dependency>
+			
+	
+	</dependencies>
+
+
+</project>

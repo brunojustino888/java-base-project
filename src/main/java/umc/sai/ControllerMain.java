@@ -1,6 +1,8 @@
-package umc.sai.controller;
+package umc.sai;
 import javax.swing.UIManager;
 
+import umc.sai.controller.ControllerConexaoDB;
+import umc.sai.controller.ControllerMusica;
 import umc.sai.view.AmbienteAplicacao;
 import umc.sai.view.TelaLogin;
 import umc.sai.view.ViewTelaInicio;

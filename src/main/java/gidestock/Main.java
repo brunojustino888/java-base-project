@@ -1,4 +1,4 @@
-package gidestock.controller;
+package gidestock;
 
 import gidestock.view.CadastraProduto;
 

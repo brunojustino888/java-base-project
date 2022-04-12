@@ -8,6 +8,11 @@
 	<name>java-base-project</name>
 	<description>Projeto java com aplicacoes academicas e historicas (ano de 2015).</description>
 	
+	<properties>
+	    <maven.compiler.source>1.8</maven.compiler.source>
+	    <maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+	
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/com.googlecode.soundlibs/tritonus-share -->
 		<dependency>
